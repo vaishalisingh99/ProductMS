@@ -1,0 +1,46 @@
+
+Rcom.project.InfyShop.controller.ProductController#getAllProducts()Ljava/util/List;v
+lC:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/controller/ProductController.java- -('"1*Õ
+1v
+lC:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/controller/ProductController.java. .(‹
+Ÿ
+v
+lC:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/controller/ProductController.java. .(
+%0org.slf4j.Logger"__id*A*?3
+1com.project.InfyShop.controller.ProductController"
+loggerÇˇ
+v
+lC:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/controller/ProductController.java. .(&
+
+%1void"*org.slf4j.Logger#info(Ljava/lang/String;)V*
+
+%0org.slf4j.Logger*
+Fetching all products2info(Ljava/lang/String;)§
+°
+v
+lC:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/controller/ProductController.java/ /(
+%2java.io.PrintStream"__id*
+""ÜÉ
+v
+lC:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/controller/ProductController.java/ /(%
+
+%3void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%2java.io.PrintStream*
+In controller2println(Ljava/lang/String;)ˇ
+¸
+v
+lC:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/controller/ProductController.java0	 0(1
+%4+com.project.InfyShop.service.ProductService"__id*I*G3
+1com.project.InfyShop.controller.ProductController"
+productService¶£
+v
+lC:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/controller/ProductController.java0	 0((
+%5java.util.List"Lcom.project.InfyShop.service.ProductService#getAllProducts()Ljava/util/List;*3
+1
+%4+com.project.InfyShop.service.ProductService2getAllProducts()"ê
+v
+lC:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/controller/ProductController.java0 0()
+
+%5java.util.ListB53
+1com.project.InfyShop.controller.ProductController

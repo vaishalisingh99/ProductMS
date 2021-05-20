@@ -1,0 +1,195 @@
+
+@com.project.InfyShop.dto.ProductDTO#toString()Ljava/lang/String;j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java± ±("1*Å)
+1j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ²(²
+¯
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ²('
+%0java.lang.String"__concat*
+ProductDTO [prodid=*
+""¼
+¹
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ²(7
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+, category=Ä
+Á
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²: ²(B
+%2java.lang.String"__id*5*3%
+#com.project.InfyShop.dto.ProductDTO"
+
+categoryÅ
+Â
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ²(B
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String¿
+¼
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ²(U
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+, description=Ç
+Ä
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java³ ³(
+%5java.lang.String"__id*8*6%
+#com.project.InfyShop.dto.ProductDTO"
+descriptionÅ
+Â
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ³(
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String¹
+¶
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ³(
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+
+, image=Á
+¾
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java³! ³(&
+%8java.lang.String"__id*2*0%
+#com.project.InfyShop.dto.ProductDTO"
+imageÅ
+Â
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ³(&
+%9java.lang.String"__concat*
+
+%7java.lang.String*
+
+%8java.lang.Stringº
+·
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ³(3
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+
+, price=µ
+²
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ³(;
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+""Á
+¾
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ³(N
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+, productname=È
+Å
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java³Q ³(\
+%13java.lang.String"__id*8*6%
+#com.project.InfyShop.dto.ProductDTO"
+productNameÈ
+Å
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ³(\
+%14java.lang.String"__concat*
+
+%12java.lang.String*
+
+%13java.lang.StringÃ
+À
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ³(q
+%15java.lang.String"__concat*
+
+%14java.lang.String*
+, productRating=Ê
+Ç
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java´ ´(
+%16java.lang.String"__id*:*8%
+#com.project.InfyShop.dto.ProductDTO"
+productRatingÈ
+Å
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ´(
+%17java.lang.String"__concat*
+
+%15java.lang.String*
+
+%16java.lang.String¾
+»
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ´(#
+%18java.lang.String"__concat*
+
+%17java.lang.String*
+, sellerid=µ
+²
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ´(.
+%19java.lang.String"__concat*
+
+%18java.lang.String*
+""»
+¸
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ´(;
+%20java.lang.String"__concat*
+
+%19java.lang.String*
+
+, stock=µ
+²
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ´(C
+%21java.lang.String"__concat*
+
+%20java.lang.String*
+""Á
+¾
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ´(V
+%22java.lang.String"__concat*
+
+%21java.lang.String*
+, subcategory=È
+Å
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java´Y ´(d
+%23java.lang.String"__id*8*6%
+#com.project.InfyShop.dto.ProductDTO"
+subcategoryÈ
+Å
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ´(d
+%24java.lang.String"__concat*
+
+%22java.lang.String*
+
+%23java.lang.String´
+±
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java²	 ´(j
+%25java.lang.String"__concat*
+
+%24java.lang.String*
+]"‡
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java² ´(k
+
+%25java.lang.StringB'%
+#com.project.InfyShop.dto.ProductDTO

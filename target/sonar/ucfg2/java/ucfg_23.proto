@@ -1,0 +1,148 @@
+
+Wcom.project.InfyShop.dto.ProductDTO#createEntity()Lcom/project/InfyShop/entity/Product;j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.javaü ü("1*õ1
+1j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java° °("øº
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java° °( )
+%0#com.project.InfyShop.entity.Product"#com.project.InfyShop.entity.Product—
+Œ
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java° °("
+%1"-com.project.InfyShop.entity.Product#<init>()V*+
+)
+%0#com.project.InfyShop.entity.Product“
+œ
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java° °(#.
+product#com.project.InfyShop.entity.Product"__id*+
+)
+%0#com.project.InfyShop.entity.ProductÑÅ
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java¢ ¢()
+%2java.lang.String"Ccom.project.InfyShop.dto.ProductDTO#getCategory()Ljava/lang/String;*'%
+#com.project.InfyShop.dto.ProductDTO2getCategory()Æ´
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java¢ ¢(*
+
+%3void"Dcom.project.InfyShop.entity.Product#setCategory(Ljava/lang/String;)V*0
+.
+product#com.project.InfyShop.entity.Product*
+
+%2java.lang.String2setCategory(Ljava/lang/String;)äá
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java£ £(/
+%4java.lang.String"Fcom.project.InfyShop.dto.ProductDTO#getDescription()Ljava/lang/String;*'%
+#com.project.InfyShop.dto.ProductDTO2getDescription()¥±
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java£ £(0
+
+%5void"Gcom.project.InfyShop.entity.Product#setDescription(Ljava/lang/String;)V*0
+.
+product#com.project.InfyShop.entity.Product*
+
+%4java.lang.String2"setDescription(Ljava/lang/String;)˛˚
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java§ §(#
+%6java.lang.String"@com.project.InfyShop.dto.ProductDTO#getImage()Ljava/lang/String;*'%
+#com.project.InfyShop.dto.ProductDTO2
+getImage()®•
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java§ §($
+
+%7void"Acom.project.InfyShop.entity.Product#setImage(Ljava/lang/String;)V*0
+.
+product#com.project.InfyShop.entity.Product*
+
+%6java.lang.String2setImage(Ljava/lang/String;)„‡
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java• •(#
+%8double"/com.project.InfyShop.dto.ProductDTO#getPrice()D*'%
+#com.project.InfyShop.dto.ProductDTO2
+getPrice()¸˘
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java• •($
+
+%9void"0com.project.InfyShop.entity.Product#setPrice(D)V*0
+.
+product#com.project.InfyShop.entity.Product*
+
+%8double2setPrice(D)„‡
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java¶ ¶(%
+
+%10int"0com.project.InfyShop.dto.ProductDTO#getProdId()I*'%
+#com.project.InfyShop.dto.ProductDTO2getProdId()˝˙
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java¶ ¶(&
+%11void"1com.project.InfyShop.entity.Product#setProdId(I)V*0
+.
+product#com.project.InfyShop.entity.Product*
+
+
+%10int2setProdId(I)ãà
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.javaß ß(/
+%12java.lang.String"Fcom.project.InfyShop.dto.ProductDTO#getProductName()Ljava/lang/String;*'%
+#com.project.InfyShop.dto.ProductDTO2getProductName()∂≥
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.javaß ß(0
+%13void"Gcom.project.InfyShop.entity.Product#setProductName(Ljava/lang/String;)V*0
+.
+product#com.project.InfyShop.entity.Product*
+
+%12java.lang.String2"setProductName(Ljava/lang/String;)èå
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java® ®(3
+%14java.lang.String"Hcom.project.InfyShop.dto.ProductDTO#getProductRating()Ljava/lang/String;*'%
+#com.project.InfyShop.dto.ProductDTO2getProductRating()∫∑
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java® ®(4
+%15void"Icom.project.InfyShop.entity.Product#setProductRating(Ljava/lang/String;)V*0
+.
+product#com.project.InfyShop.entity.Product*
+
+%14java.lang.String2$setProductRating(Ljava/lang/String;)Á‰
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java© ©()
+
+%16int"2com.project.InfyShop.dto.ProductDTO#getSellerId()I*'%
+#com.project.InfyShop.dto.ProductDTO2getSellerId()Å˛
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java© ©(*
+%17void"3com.project.InfyShop.entity.Product#setSellerId(I)V*0
+.
+product#com.project.InfyShop.entity.Product*
+
+
+%16int2setSellerId(I)·ﬁ
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java™ ™(#
+
+%18int"/com.project.InfyShop.dto.ProductDTO#getStock()I*'%
+#com.project.InfyShop.dto.ProductDTO2
+getStock()˚¯
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java™ ™($
+%19void"0com.project.InfyShop.entity.Product#setStock(I)V*0
+.
+product#com.project.InfyShop.entity.Product*
+
+
+%18int2setStock(I)ãà
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java´ ´(/
+%20java.lang.String"Fcom.project.InfyShop.dto.ProductDTO#getSubcategory()Ljava/lang/String;*'%
+#com.project.InfyShop.dto.ProductDTO2getSubcategory()∂≥
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java´ ´(0
+%21void"Gcom.project.InfyShop.entity.Product#setSubcategory(Ljava/lang/String;)V*0
+.
+product#com.project.InfyShop.entity.Product*
+
+%20java.lang.String2"setSubcategory(Ljava/lang/String;)"û
+j
+^C:/Users/Win-10/git/ProductMS/ProductMS/src/main/java/com/project/InfyShop/dto/ProductDTO.java¨ ¨(0
+.
+product#com.project.InfyShop.entity.ProductB'%
+#com.project.InfyShop.dto.ProductDTO

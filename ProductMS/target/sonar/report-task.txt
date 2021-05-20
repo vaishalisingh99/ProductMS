@@ -1,7 +1,0 @@
-organization=vaishalisingh99
-projectKey=com.project.InfyShop:ProductMS
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.20206
-dashboardUrl=https://sonarcloud.io/dashboard?id=com.project.InfyShop%3AProductMS
-ceTaskId=AXmIPLKnBGcQEegvx5w_
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmIPLKnBGcQEegvx5w_
